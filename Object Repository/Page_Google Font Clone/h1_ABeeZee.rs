@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_ABeeZee</name>
+   <tag></tag>
+   <elementGuidId>78dc8d23-8ae3-4e04-b4d3-82b7d60be756</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Font'])[1]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.text-5xl.font-semibold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;ABeeZee&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>aa2b6416-091a-4df8-887e-e7d72f24fa5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-5xl font-semibold</value>
+      <webElementGuid>146ffc80-4c74-4ac9-883b-64ae29d72b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABeeZee</value>
+      <webElementGuid>483ed4a7-a6fa-4722-8f94-8fd4283d826a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_cfacd3&quot;]/div[@class=&quot;radix-themes flex&quot;]/main[@class=&quot;container max-w-[1500px] px-8&quot;]/div[@class=&quot;flex flex-col gap-5 w-full mt-5 container max-w-[1500px] p-5&quot;]/h1[@class=&quot;text-5xl font-semibold&quot;]</value>
+      <webElementGuid>4d0b5982-4c86-48f8-82dc-a9f12121a2a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Font'])[1]/following::h1[1]</value>
+      <webElementGuid>49441f03-f2ff-42ae-9b56-c481ae8052e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design by Google'])[1]/preceding::h1[1]</value>
+      <webElementGuid>7ec6d0a5-b8f9-49c9-abc1-10dfec86cdc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whereas disregard and contempt for human rights have resulted'])[1]/preceding::h1[1]</value>
+      <webElementGuid>9e276e14-d988-4c6e-a1aa-a6c7bbfdd0dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ABeeZee']/parent::*</value>
+      <webElementGuid>667f9f45-90be-4a16-837b-7b156f39c141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>a35de9da-c6f7-4bcf-be38-2b88ecc7b490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'ABeeZee' or . = 'ABeeZee')]</value>
+      <webElementGuid>ce725137-8c60-4f24-ac2e-1c2ff9c0e7d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Modal</name>
+   <tag></tag>
+   <elementGuidId>1496b501-ee88-4f64-a14f-401e1cfdda2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;«r7i»&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>document.querySelector(&quot;#«r7i»&quot;)</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

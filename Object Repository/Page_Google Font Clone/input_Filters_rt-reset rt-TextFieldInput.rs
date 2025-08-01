@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Filters_rt-reset rt-TextFieldInput</name>
+   <tag></tag>
+   <elementGuidId>3438ed8d-0ac2-4a76-9946-51722aa72a98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.rt-reset.rt-TextFieldInput</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search fonts&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7b8ca308-5e3b-4897-bd1c-ceb1811d5c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>77f46cc4-0977-4851-a500-bcf06b2e6b63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search fonts</value>
+      <webElementGuid>80bacb47-e2de-4218-98cf-226fb5026def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rt-reset rt-TextFieldInput</value>
+      <webElementGuid>35e3648f-2bd2-4c07-9e3e-0a65ad3364ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_cfacd3&quot;]/div[@class=&quot;radix-themes flex&quot;]/main[@class=&quot;container max-w-[1500px] px-8&quot;]/nav[@class=&quot;container h-auto mt-5 sticky max-w-full&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;rt-TextFieldRoot rt-r-size-3 rt-variant-soft h-14 w-full&quot;]/input[@class=&quot;rt-reset rt-TextFieldInput&quot;]</value>
+      <webElementGuid>7af6a032-b29e-49b6-8c69-02e45dce0972</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>7f4c8404-82a0-4a13-a4c5-6e27c4253c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search fonts']</value>
+      <webElementGuid>abd73a4f-7879-42c8-9395-3214f2b3090a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
