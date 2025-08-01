@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.setViewPortSize(1920, 1080)
+
 WebUI.navigateToUrl('https://getbootstrap.com/docs/4.0/components/modal/')
 
 WebUI.switchToWindowTitle('Modal · Bootstrap')
