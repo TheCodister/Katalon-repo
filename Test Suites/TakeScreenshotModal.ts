@@ -15,7 +15,7 @@
       <guid>08386fa7-897c-49c9-afdb-de461f01f15c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/OpenModalBoostrap</testCaseId>
+      <testCaseId>Test Cases/Resuable/OpenModalBoostrap</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
